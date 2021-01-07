@@ -1,0 +1,20 @@
+{
+  "description" : "Vous devez être âgé d'au moins 18 ans pour accéder à ce contenu réservé aux adultes.",
+  "name" : "Adulte_Corsika12",
+  "rules" : [
+    {
+      "action" : "allow",
+      "creationDate" : 1609210038.5608602,
+      "modificationDate" : 1609983387.1885791,
+      "owner" : "any",
+      "process" : "any",
+      "remote-domains" : [
+        "tube8.com",
+        "jacquieetmicheltv.net",
+        "youporn.com",
+        "jacquieetmichel.net",
+        "redtube.com"
+      ]
+    }
+  ]
+}
