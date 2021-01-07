@@ -15,6 +15,17 @@
         "jacquieetmichel.net",
         "redtube.com"
       ]
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1609210973.914392,
+      "modificationDate" : 1609989562.470443,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : [
+        "pornhub.com",
+        "my18pass.com"
+      ]
     }
   ]
 }
