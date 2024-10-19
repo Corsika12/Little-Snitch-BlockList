@@ -18248,46 +18248,6 @@
       "modificationDate" : 1611228423.2707438,
       "owner" : "any",
       "process" : "any",
-      "remote-domains" : "google-analytics.com"
-    },
-    {
-      "action" : "deny",
-      "creationDate" : 1611228423.2707438,
-      "modificationDate" : 1611228423.2707438,
-      "owner" : "any",
-      "process" : "any",
-      "remote-domains" : "googleanalytics.com"
-    },
-    {
-      "action" : "deny",
-      "creationDate" : 1611228423.2707438,
-      "modificationDate" : 1611228423.2707438,
-      "owner" : "any",
-      "process" : "any",
-      "remote-domains" : "googlesyndication.com"
-    },
-    {
-      "action" : "deny",
-      "creationDate" : 1611228423.2707438,
-      "modificationDate" : 1611228423.2707438,
-      "owner" : "any",
-      "process" : "any",
-      "remote-domains" : "googletagmanager.com"
-    },
-    {
-      "action" : "deny",
-      "creationDate" : 1611228423.2707438,
-      "modificationDate" : 1611228423.2707438,
-      "owner" : "any",
-      "process" : "any",
-      "remote-domains" : "googletagservices.com"
-    },
-    {
-      "action" : "deny",
-      "creationDate" : 1611228423.2707438,
-      "modificationDate" : 1611228423.2707438,
-      "owner" : "any",
-      "process" : "any",
       "remote-domains" : "gorgeousground.com"
     },
     {
