@@ -181,6 +181,17 @@
     },
     {
       "action": "deny",
+      "creationDate": 1747133000.0,
+      "modificationDate": 1747133000.0,
+      "owner": "any",
+      "process": "any",
+      "remote-domains": [
+        "doppiocdn.com",
+        "go.reebr.com"
+      ]
+    },
+    {
+      "action": "deny",
       "creationDate": 1747134000.0,
       "modificationDate": 1747134000.0,
       "owner": "any",
