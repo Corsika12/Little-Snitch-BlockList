@@ -147,7 +147,36 @@
       "process": "any",
       "remote-domains": [
         "afcdn.net",
-        "chaturbate.com"
+        "chaturbate.com",
+        "trafficfactory.com"
+      ]
+    },
+    {
+      "action": "deny",
+      "creationDate": 1747133000.0,
+      "modificationDate": 1747133000.0,
+      "owner": "any",
+      "process": "any",
+      "remote-domains": [
+        "jsmcrptjmp.com",
+        "lpmedia.justservingfiles.net",
+        "bmedia-gcore.justservingfiles.net",
+        "camschat.net",
+        "s.orbsrv.com"
+      ]
+    },
+    {
+      "action": "deny",
+      "creationDate": 1747133000.0,
+      "modificationDate": 1747133000.0,
+      "owner": "any",
+      "process": "any",
+      "remote-domains": [
+        "s.gankana.com",
+        "s.tf4srv.com",
+        "cdn.bncloudfl.com",
+        "pointcontinentrtb.com",
+        "refer.ccbill.com"
       ]
     },
     {
