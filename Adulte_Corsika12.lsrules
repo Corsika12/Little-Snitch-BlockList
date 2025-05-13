@@ -9,11 +9,10 @@
       "owner" : "any",
       "process" : "any",
       "remote-domains" : [
-        "tube8.com",
-        "jacquieetmicheltv.net",
+        "tube8.fr",
+        "redtube.com",
         "youporn.com",
-        "jacquieetmichel.net",
-        "redtube.com"
+        "pornhub.com"
       ]
     },
     {
@@ -23,8 +22,10 @@
       "owner" : "me",
       "process" : "any",
       "remote-domains" : [
-        "pornhub.com",
-        "my18pass.com"
+        "fr.xvideos.com",
+        "fra.xhamster.com",
+        "pornzog.com",
+        "xnxx.com"
       ]
     }
   ]
