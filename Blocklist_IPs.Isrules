@@ -1,6 +1,6 @@
 {
   "name": "Blocklist_IPs",
-  "description": "Blocage d’adresses IP",
+  "description": "Blocage d’adresses IP, dont Corée du Nord, Iran (Telecom), Russie (Yandex, Selectel / OVH RU), Belarus (Beltelecom), Syrie (Syrian Telecom), Irak (IQ‑Online), Offshore “No‑log” hosting (Panama) and mix",
   "rules": [
     {
       "action": "deny",
@@ -11,7 +11,8 @@
       "remote-addresses": [
         "52.169.71.77",
         "143.198.84.20",
-        "146.70.178.164"
+        "146.70.178.164",
+        "151.80.139.240"
       ]
     },
     {
@@ -23,6 +24,34 @@
       "remote-addresses": [
         "146.70.178.164",
         "198.44.190.9"
+      ]
+    },
+    {
+      "action": "deny",
+      "creationDate": 1747139000.0,
+      "modificationDate": 1747139000.0,
+      "owner": "any",
+      "process": "any",
+      "remote-addresses": [
+        "175.45.176.0/22",
+        "37.98.128.0/17",
+        "5.255.255.0/24",
+        "95.163.0.0/16",
+        "178.172.128.0/17"
+      ]
+    },
+    {
+      "action": "deny",
+      "creationDate": 1747139000.0,
+      "modificationDate": 1747139000.0,
+      "owner": "any",
+      "process": "any",
+      "remote-addresses": [
+        "91.144.0.0/16",
+        "45.64.64.0/18",
+        "185.153.0.0/16",
+        "146.70.0.0/16",
+        "190.115.128.0/17"
       ]
     }
   ]
