@@ -34,16 +34,7 @@
       "process": "any",
       "remote-addresses": [
         "175.45.176.0/22",
-        "37.98.128.0/17"
-      ]
-    },
-    {
-      "action": "deny",
-      "creationDate": 1747139000.0,
-      "modificationDate": 1747139000.0,
-      "owner": "any",
-      "process": "any",
-      "remote-addresses": [
+        "37.98.128.0/17",
         "5.255.255.0/24",
         "95.163.0.0/16",
         "178.172.128.0/17"
@@ -70,16 +61,7 @@
       "process": "any",
       "remote-addresses": [
         "91.144.0.0/16",
-        "45.64.64.0/18"
-      ]
-    },
-    {
-      "action": "deny",
-      "creationDate": 1747139000.0,
-      "modificationDate": 1747139000.0,
-      "owner": "any",
-      "process": "any",
-      "remote-addresses": [
+        "45.64.64.0/18",
         "146.70.0.0/16",
         "190.115.128.0/17"
       ]
