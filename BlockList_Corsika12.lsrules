@@ -1,5 +1,5 @@
 {
-  "description" : "Règles de pare-feu pour bloquer les domaines de suivi / diffusion de publicités liées aux principales régies publicitaires courantes en France (Criteo, Outbrain, Adyoulike, SmartAdServer, Bing, Microsoft, Facebook, etc.) ou sur les sites spécialisés (JuicyAds, ExoClick, etc.).",
+  "description" : "Règles de pare-feu pour bloquer les domaines de suivi / diffusion de publicités liées aux principales régies publicitaires courantes en France (Criteo, Outbrain, Adyoulike, SmartAdServer, Bing, Microsoft, Facebook, etc.), e‑commerce, informations ou sur les sites spécialisés (JuicyAds, ExoClick, etc.).",
   "name" : "BlockList_Corsika12",
   "rules": [
     {
@@ -148,6 +148,76 @@
       "remote-domains": [
         "afcdn.net",
         "chaturbate.com"
+      ]
+    },
+    {
+      "action": "deny",
+      "creationDate": 1747134000.0,
+      "modificationDate": 1747134000.0,
+      "owner": "any",
+      "process": "any",
+      "remote-domains": [
+        "amazon-adsystem.com",
+        "aax-eu.amazon-adsystem.com",
+        "fls-eu.amazon.fr",
+        "fls-na.amazon.com",
+        "d3p9v0r389qz7y.cloudfront.net"
+      ]
+    },
+    {
+      "action": "deny",
+      "creationDate": 1747134000.0,
+      "modificationDate": 1747134000.0,
+      "owner": "any",
+      "process": "any",
+      "remote-domains": [
+        "awin1.com",
+        "tradedoubler.com",
+        "zanox.com",
+        "belboon.com",
+        "tracdelight.com"
+      ]
+    },
+    {
+      "action": "deny",
+      "creationDate": 1747134000.0,
+      "modificationDate": 1747134000.0,
+      "owner": "any",
+      "process": "any",
+      "remote-domains": [
+        "prf.hn",
+        "ir.ebaystatic.com",
+        "emarsys.net",
+        "demdex.net",
+        "omtrdc.net"
+      ]
+    },
+    {
+      "action": "deny",
+      "creationDate": 1747135000.0,
+      "modificationDate": 1747135000.0,
+      "owner": "any",
+      "process": "any",
+      "remote-domains": [
+        "incoming.telemetry.mozilla.org",
+        "firefox.settings.services.mozilla.com",
+        "detectportal.firefox.com",
+        "push.services.mozilla.com",
+        "content-signature-2.cdn.mozilla.net"
+      ]
+    },
+    {
+      "action": "deny",
+      "creationDate": 1747135000.0,
+      "modificationDate": 1747135000.0,
+      "owner": "any",
+      "process": "any",
+      "remote-domains": [
+        "freewheel.tv",
+        "fwmrm.net",
+        "springserve.com",
+        "stamptv.io",
+        "tremorhub.com"
       ]
     }
   ]
