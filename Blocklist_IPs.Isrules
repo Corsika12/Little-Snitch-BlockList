@@ -33,16 +33,7 @@
       "owner": "any",
       "process": "any",
       "remote-addresses": [
-        "175.45.176.0/22"
-      ]
-    },
-    {
-      "action": "deny",
-      "creationDate": 1747139000.0,
-      "modificationDate": 1747139000.0,
-      "owner": "any",
-      "process": "any",
-      "remote-addresses": [
+        "175.45.176.0/22",
         "37.98.128.0/17"
       ]
     },
@@ -78,16 +69,7 @@
       "owner": "any",
       "process": "any",
       "remote-addresses": [
-        "91.144.0.0/16"
-      ]
-    },
-    {
-      "action": "deny",
-      "creationDate": 1747139000.0,
-      "modificationDate": 1747139000.0,
-      "owner": "any",
-      "process": "any",
-      "remote-addresses": [
+        "91.144.0.0/16",
         "45.64.64.0/18"
       ]
     },
