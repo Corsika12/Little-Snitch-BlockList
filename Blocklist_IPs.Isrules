@@ -1,0 +1,29 @@
+{
+  "name": "Blocklist_IPs",
+  "description": "Blocage d’adresses IP",
+  "rules": [
+    {
+      "action": "deny",
+      "creationDate": 1747137600.0,
+      "modificationDate": 1747137600.0,
+      "owner": "any",
+      "process": "any",
+      "remote-addresses": [
+        "52.169.71.77",
+        "143.198.84.20",
+        "146.70.178.164"
+      ]
+    },
+    {
+      "action": "deny",
+      "creationDate": 1747137600.0,
+      "modificationDate": 1747137600.0,
+      "owner": "any",
+      "process": "any",
+      "remote-addresses": [
+        "146.70.178.164",
+        "198.44.190.9"
+      ]
+    }
+  ]
+}
