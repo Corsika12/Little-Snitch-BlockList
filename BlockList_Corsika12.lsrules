@@ -124,6 +124,31 @@
         "popads.net",
         "plugrush.com"
       ]
+    },
+    {
+      "action": "deny",
+      "creationDate": 1747133000.0,
+      "modificationDate": 1747133000.0,
+      "owner": "any",
+      "process": "any",
+      "remote-domains": [
+        "trafficjunky.com",
+        "adtng.com",
+        "xhamsterflirt.com",
+        "rtbsuperhub.com",
+        "tsyndicate.com"
+      ]
+    },
+    {
+      "action": "deny",
+      "creationDate": 1747133000.0,
+      "modificationDate": 1747133000.0,
+      "owner": "any",
+      "process": "any",
+      "remote-domains": [
+        "afcdn.net",
+        "chaturbate.com"
+      ]
     }
   ]
 }
