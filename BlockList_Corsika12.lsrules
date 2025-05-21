@@ -1,5 +1,5 @@
 {
-  "description" : "Règles de pare-feu pour bloquer les domaines de suivi / diffusion de publicités liées aux principales régies publicitaires courantes en France (Criteo, Outbrain, Adyoulike, SmartAdServer, Bing, Microsoft, Facebook, etc.), e‑commerce, informations ou sur les sites spécialisés (JuicyAds, ExoClick, etc.).",
+  "description" : "Règles de pare-feu pour bloquer les domaines de suivi / diffusion de publicités liées aux principales régies publicitaires courantes en France (Criteo, Outbrain, Adyoulike, Bing, Microsoft, Facebook, etc.), e‑commerce, informations ou sur les sites spécialisés (JuicyAds, ExoClick, etc.).",
   "name" : "BlockList_Corsika12",
   "rules": [
     {
@@ -50,9 +50,7 @@
       "remote-domains": [
         "criteo.com",
         "criteo.net",
-        "smartadserver.com",
-        "smartclip.net",
-        "teads.tv"
+        "smartclip.net"
       ]
     },
     {
@@ -62,9 +60,6 @@
       "owner": "any",
       "process": "any",
       "remote-domains": [
-        "adform.net",
-        "adformdsp.net",
-        "outbrain.com",
         "taboola.com",
         "ligatus.com"
       ]
@@ -76,23 +71,6 @@
       "owner": "any",
       "process": "any",
       "remote-domains": [
-        "openx.net",
-        "servedbyopenx.com",
-        "rubiconproject.com",
-        "pubmatic.com",
-        "casalemedia.com"
-      ]
-    },
-    {
-      "action": "deny",
-      "creationDate": 1747132000.0,
-      "modificationDate": 1747132000.0,
-      "owner": "any",
-      "process": "any",
-      "remote-domains": [
-        "adnxs.com",
-        "adnxs-simple.com",
-        "advertising.com",
         "mathtag.com",
         "trafficleader.com"
       ]
@@ -244,20 +222,6 @@
         "detectportal.firefox.com",
         "push.services.mozilla.com",
         "content-signature-2.cdn.mozilla.net"
-      ]
-    },
-    {
-      "action": "deny",
-      "creationDate": 1747135000.0,
-      "modificationDate": 1747135000.0,
-      "owner": "any",
-      "process": "any",
-      "remote-domains": [
-        "freewheel.tv",
-        "fwmrm.net",
-        "springserve.com",
-        "stamptv.io",
-        "tremorhub.com"
       ]
     }
   ]
